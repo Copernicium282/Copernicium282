@@ -1,0 +1,29 @@
+name: generate-snake-game-from-github-contribution-grid
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3.5.0
+        id: snake
+        with:
+          github_user_name: Copernicium282
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          keep_files: false
+          publish_dir: ./dist
+          destination_dir: .
+          github_token: ${{ secrets.GITHUB_TOKEN }}
