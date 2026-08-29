@@ -18,7 +18,7 @@ Congratulations you found the first one!
 
 <div align="center">
 
-- 🔭 I’m currently working on **a Decentralized Game**
+- 🔭 I’m currently working on **nothing as of now, thinking of new ideas for my next DApp**
 
 - 🌱 I’m currently researching and learning **EIPs and ERCs**
 
