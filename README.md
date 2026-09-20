@@ -26,7 +26,7 @@ Congratulations you found the first one!
 
 - 👾 I work on a **Minecraft Modpack (NITRO)** and listen to music in my free time
 
-- ⚡ Fun fact: **I use arch-based distro btw (CachyOS KDE Plasma/X11 user)**
+- ⚡ Fun fact: **I use arch-based distro btw (CachyOS Hyprland user)**
 
 </div>
 
