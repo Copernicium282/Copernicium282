@@ -6,15 +6,7 @@ Hi! This is an easter egg.
 Congratulations you found the first one!
 -->
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix" />
-  </a>
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Copernicium282&style=flat&color=0e75b6&label=Profile+views" alt="profile views" />
-</p>
 
 <div align="center">
 
