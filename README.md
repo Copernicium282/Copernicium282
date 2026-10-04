@@ -12,7 +12,7 @@ Congratulations you found the first one!
 
 - 🔭 I’m currently working on **learning Rust 🦀**
 
-- 🌱 I’m currently researching and learning **EIPs and ERCs**
+- 🌱 I’m currently researching and learning **nothing**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
