@@ -10,7 +10,7 @@ Congratulations you found the first one!
 
 <div align="center">
 
-- 🔭 I’m currently working on **a dapp**
+- 🔭 I’m currently working on **learning Rust 🦀**
 
 - 🌱 I’m currently researching and learning **EIPs and ERCs**
 
