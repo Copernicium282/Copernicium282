@@ -25,7 +25,6 @@ Congratulations you found the first one!
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.github.com/Copernicium282" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Copernicium282" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amit-prasad-b82188369" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-prasad-b82188369" height="30" width="40" /></a>
 <a href="mailto:ampr2006rmp@gmail.com"><img align="center" src="https://images.icon-icons.com/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="email" height="43" width="40" /></a>
 <a href="https://discord.com/users/ir192m2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ir192m2" height="30" width="40" /></a>
 </p>
